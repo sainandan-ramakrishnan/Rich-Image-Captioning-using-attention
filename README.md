@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Image Captioning using Attention
 Fellow contributor : Rahul Solanki (rahul411) 
 
@@ -152,3 +153,6 @@ python testModel.py model/model-80 Images/manInSnow.jpg ImageFeatures/manInSnow.
 * The fourth argument specifies the annotations path
 
 Running the command would yield the caption and also display the attention maps over images.
+=======
+# Rich-Image-Captioning-using-attention
+>>>>>>> ccead093462bcd5603e571668d403eb0a81ecc8e
