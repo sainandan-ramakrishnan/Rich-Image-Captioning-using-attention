@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Image Captioning using Attention
 Fellow contributor : Rahul Solanki (rahul411) 
 
